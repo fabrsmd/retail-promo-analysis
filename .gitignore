@@ -1,0 +1,18 @@
+# Volumetry Data
+data/raw/
+data/processed/
+
+# Secrets never on github
+.Renviron
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Power BI (poussé séparément plus tard)
+.pbix
